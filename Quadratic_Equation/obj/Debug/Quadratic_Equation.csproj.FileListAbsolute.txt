@@ -1,0 +1,10 @@
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe.config
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.exe
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\bin\Debug\Quadratic_Equation.pdb
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csprojAssemblyReference.cache
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.Equation_Form.resources
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.Properties.Resources.resources
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csproj.GenerateResource.cache
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.exe
+C:\Users\enriq\Documents\Otras cosas\Programación\Proyectos de Visual Studio (C#)\Quadratic_Equation\Quadratic_Equation\obj\Debug\Quadratic_Equation.pdb
